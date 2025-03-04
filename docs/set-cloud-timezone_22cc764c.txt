@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/manage-cloud/set-cloud-timezone/
+
+Set the Cloud instance timezone # You can change the timezone for your n8n instance. This affects the Schedule Trigger and Date & Time node . Users can configure the timezone for individual workflows in Workflow settings . On your dashboard, select Manage . Change the Timezone dropdown to the timezone you want. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

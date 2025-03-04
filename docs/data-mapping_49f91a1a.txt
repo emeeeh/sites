@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/data/data-mapping/
+
+Data mapping # Data mapping means referencing data from previous nodes. This section contains guidance on: Mapping data in most scenarios: Data mapping in the UI and Data mapping in expression How to handle item linking when using the Code node or building your own nodes. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

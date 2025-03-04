@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/workflows/components/
+
+Workflow components # This section contains: Nodes : integrations and operations. Connections : node connectors. Sticky notes : document your workflows. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

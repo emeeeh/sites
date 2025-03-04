@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/integrations/builtin/trigger-nodes/
+
+Triggers library # This section provides information about n8n's Triggers . Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

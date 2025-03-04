@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/integrations/community-nodes/installation/
+
+Install and manage community nodes # There are two ways to install community nodes: Within n8n using the GUI . Manually from the command line : use this method if your n8n instance doesn't support installation through the in-app GUI. Only available on self-hosted instances Community nodes aren't available on n8n cloud and require self-hosting n8n. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

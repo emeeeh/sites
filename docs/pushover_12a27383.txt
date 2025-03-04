@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/integrations/builtin/credentials/pushover/
+
+Pushover credentials # You can use these credentials to authenticate the following nodes: Pushover Prerequisites # Create a Pushover account. Supported authentication methods # API key Related resources # Refer to Pushover's API documentation for more information about authenticating with the service. Using API Key # To configure this credential, you'll need: An API Key : Generated when you register an application . Refer to Application Registration for more information. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/integrations/builtin/trigger-nodes/n8n-nodes-base.brevotrigger/
+
+Brevo Trigger node # Brevo is a digital marketing platform to help users grow their business. Credentials You can find authentication information for this node here . Examples and templates For usage examples and templates to help you get started, refer to n8n's Brevo Trigger integrations page. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

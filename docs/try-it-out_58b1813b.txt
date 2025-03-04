@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/try-it-out/
+
+Try it out # This section gets you up and running with building workflows in n8n. Want a fast taster of n8n? Try the Very quick quickstart . Looking for a more detailed introduction? Check out the Slightly longer introduction . Prefer to work through extensive examples? Maybe the courses are for you. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top

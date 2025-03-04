@@ -1,0 +1,3 @@
+Source URL: https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.n8ntrainingcustomerdatastore/
+
+Customer Datastore (n8n Training) node # Use this node only for the n8n new user onboarding tutorial. It provides dummy data for testing purposes and has no further functionality. Was this page helpful? Thanks for your feedback! Thanks for your feedback! Help us improve this page by submitting an issue or a fix in our GitHub repo . Back to top
